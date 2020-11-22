@@ -4,7 +4,7 @@ https://drive.google.com/drive/u/0/folders/1G5xC74pS8LpEOVkh5ybpiafqfzc7GR7k
 2. The link to the google drive
 https://drive.google.com/drive/u/0/folders/1TajLLOk48S7yASZutWcFxVHMzi6d9nNM
 
-# Regroup in 11.29 
+## Regroup in 11.29 
 Zoom link: https://nyu.zoom.us/j/4209475382?pwd=OUJ1a05ZSEx4c1pobTJwTmlUZGtNQT09
 password: 123456
 
