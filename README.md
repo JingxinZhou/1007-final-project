@@ -9,11 +9,11 @@ https://drive.google.com/drive/u/0/folders/1TajLLOk48S7yASZutWcFxVHMzi6d9nNM
 ### Week 1 (11.23 - 11.29)
 Visualization & Coding:
 Joe: Text analysis \
-Yuyue: Geospatial analysis 
-Sue: Visualization
+Yuyue: Geospatial analysis \
+Sue: Visualization\
 
 
 ### Week 2 (11.30 - 12.06)
-Writing & Pre:
-Jenna
-Emma
+Writing & Pre:\
+Jenna\
+Emma\
