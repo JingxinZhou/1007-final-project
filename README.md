@@ -7,7 +7,7 @@ https://drive.google.com/drive/u/0/folders/1TajLLOk48S7yASZutWcFxVHMzi6d9nNM
 ## To do list
 
 ### Week 1 (11.23 - 11.29)
-Visualization & Coding:
+Visualization & Coding:\
 Joe: Text analysis \
 Yuyue: Geospatial analysis \
 Sue: Visualization
