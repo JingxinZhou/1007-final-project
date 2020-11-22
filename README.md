@@ -10,10 +10,10 @@ https://drive.google.com/drive/u/0/folders/1TajLLOk48S7yASZutWcFxVHMzi6d9nNM
 Visualization & Coding:
 Joe: Text analysis \
 Yuyue: Geospatial analysis \
-Sue: Visualization\
+Sue: Visualization
 
 
 ### Week 2 (11.30 - 12.06)
 Writing & Pre:\
 Jenna\
-Emma\
+Emma
